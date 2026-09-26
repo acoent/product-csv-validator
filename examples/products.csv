@@ -1,0 +1,7 @@
+sku,name,price,quantity
+SKU-001,Blue mug,12.50,8
+SKU-002,Notebook,5.99,20
+SKU-001,Duplicate mug,10,1
+SKU-003,Broken price,free,3
+SKU-004,,7.00,2
+SKU-005,Poster,9.99,-1
